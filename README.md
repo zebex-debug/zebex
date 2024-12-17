@@ -1,1 +1,1 @@
-# zebex
+print("hello world")
